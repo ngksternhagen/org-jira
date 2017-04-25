@@ -1,0 +1,16 @@
+* org-jira's documentation
+** installation
+*** install interactively with emacs package management features
+the quick brown fox jumps over the lazy dog.
+*** install from source
+fill up my box with five dozen liquor jugs.
+** usage
+** contributing
+*** contributing to this documentation:
+Source for this documentation, along with org-jira source code, is hosted at
+https://github.com/ahungry/org-jira. All contributions are welcome, but please
+be advised that suggestions to abandon org-mode and texi formats are unlikely to
+be accepted.
+
+
+

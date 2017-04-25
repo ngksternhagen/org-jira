@@ -1,0 +1,10 @@
+\input texinfo
+@settitle org-jira manual 1.0
+@ifnottex
+@node Top
+@top documentation for org-jira
+this is a short sample file related to org-jira
+this documentation, for now, is contained in only a single node.
+@end ifnottex
+@bye
+
